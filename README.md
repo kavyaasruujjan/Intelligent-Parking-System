@@ -8,34 +8,6 @@ IoT Parking system
 
 - Python 2.7
 
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-```
-git clone ...
-
-```
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-
 ## Deployment
 
 ### Upload
@@ -60,7 +32,3 @@ To avoid typing passwords generate the private/public key pair:
 > ssh-keygen -t rsa
 ```
 accept all the defaults
-
-
-
-## Authors
