@@ -1,0 +1,20 @@
+{
+  "name": "simulator",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "tsc": "tsc",
+    "dev": "ts-node-dev --respawn --transpileOnly ./src/main.ts",
+    "prod": "tsc && node ./build/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Laane",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@types/dnssd": "^0.4.1",
+    "coap": "^0.23.1",
+    "dnssd": "^0.4.1",
+    "ts-node-dev": "^1.0.0-pre.43",
+    "typescript": "^3.6.3"
+  }
+}
